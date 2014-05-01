@@ -1,4 +1,4 @@
 myFirstGit
 ==========
 
-ps: this is a text
+ps: this is a test
